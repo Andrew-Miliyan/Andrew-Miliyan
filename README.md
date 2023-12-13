@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrew-Miliyan
 - 👀 I’m interested in programing,cryptography,games and more
-- 🌱 I’m currently learning C#,JAVA
+- 🌱 I’m currently learning C#,JAVA,bash,python,shell
 - 💞️ I’m looking to collaborate on small progect cuz iam newbie
 - 📫 How to reach me please write :)
 <!---
